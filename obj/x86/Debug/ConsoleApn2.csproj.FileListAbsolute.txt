@@ -1,0 +1,5 @@
+c:\users\ömür\documents\visual studio 2010\Projects\ConsoleApn2\ConsoleApn2\bin\Debug\ConsoleApn2.exe
+c:\users\ömür\documents\visual studio 2010\Projects\ConsoleApn2\ConsoleApn2\bin\Debug\ConsoleApn2.pdb
+c:\users\ömür\documents\visual studio 2010\Projects\ConsoleApn2\ConsoleApn2\obj\x86\Debug\ConsoleApn2.exe
+c:\users\ömür\documents\visual studio 2010\Projects\ConsoleApn2\ConsoleApn2\obj\x86\Debug\ConsoleApn2.pdb
+C:\Users\ömür\Documents\Visual Studio 2010\Projects\ConsoleApn2\ConsoleApn2\obj\x86\Debug\ConsoleApn2.csprojResolveAssemblyReference.cache
